@@ -30,7 +30,7 @@ To access information about a specific country, you can use the search bar provi
 
 ## Installation
 
-No installation is required to use the Country Guide. You can access it by visiting our website [insert_website_link_here].
+No installation is required to use the Country Guide. You can access it by visiting our website [https://arghya-bandyopadhyay30.github.io/Country-Guide-App/].
 
 ## Search Functionality
 
